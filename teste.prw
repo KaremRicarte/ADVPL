@@ -4,8 +4,8 @@
 
 USER FUNCTION TESTE
 
-Local c_imprime := 'teste de enviar o código direto para o Git'
-Local c_titulo := 'alerta'
+Local c_imprime := 'teste de enviar o cÃ³digo direto para o Git'
+Local c_titulo := 'Titulo'
 
 MsgAlert(c_imprime, c_titulo)
 
